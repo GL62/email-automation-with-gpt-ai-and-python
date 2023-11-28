@@ -124,7 +124,7 @@ class mail_bot:
 if __name__ == "__main__":
 
     # Private Variables (replace this with your data)
-    new_api_key = "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"
+    new_api_key = ""
     new_mail_host = "stmp.gmail.com"
     new_password = "HUinitpass#24"
     new_your_email = "sariah.adams2@gmail.com"
